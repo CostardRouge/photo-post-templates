@@ -1,0 +1,5 @@
+{
+  "name": "Social Photo Layout Studio",
+  "description": "An application to create beautiful social media layouts for your photos. Upload an image, customize the canvas size, margins, and display EXIF data with AI-powered location suggestions.",
+  "requestFramePermissions": []
+}
